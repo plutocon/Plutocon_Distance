@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plutocon Distance</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_select_device">Select Plutocon</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="title_activity_plutocon_list">PlutoconListActivity</string>
+    <string name="copyright">Copyright © 2016 KONGtech. Co.,Ltd.</string>
+</resources>

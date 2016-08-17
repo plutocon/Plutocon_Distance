@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="thumb_background">#455a63</color>
+
+    <color name="level1">#a1b0b6</color>
+    <color name="level2">#7b8f97</color>
+    <color name="level3">#455a63</color>
+
+    <color name="white">#ffffff</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AttrItem">
+        <attr name="attrName" format="reference|string"/>
+        <attr name="attrValue" format="reference|string"/>
+        <attr name="attrValueColor" format="reference|color"/>
+        <attr name="isChangeable" format="boolean"/>
+        <attr name="isLogo" format="boolean"/>
+</declare-styleable>
+    </resources>
